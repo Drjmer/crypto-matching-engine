@@ -209,7 +209,3 @@ sortedcontainers==2.4.0
 ```
 
 ---
-
-## License
-
-MIT License. See [LICENSE](https://claude.ai/chat/LICENSE) for details.
